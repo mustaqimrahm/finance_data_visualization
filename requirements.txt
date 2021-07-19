@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
-pandas_datareader
+yfinance
 plotly
 cufflinks
 voila
